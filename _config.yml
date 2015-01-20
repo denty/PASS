@@ -1,5 +1,5 @@
-title:            PASS
-description:      "Omega: The Coolest Theme for Jekyll"
+title:            PASS BasketBall Team
+description:      "PASS:We Are Best!"
 logo:             omikron.png
 disqus_shortname: hmfaysal
 # Assign a default image for your site's header and footer
@@ -26,7 +26,7 @@ owner:
   avatar:         hmfaysal.jpg #to do replace
   email:          554708580@qq.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  #description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        hmfaysal
   #facebook:       hmfaysal
