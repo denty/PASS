@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>http://huals.com/sample-post/hello-myblog</loc>
+        <lastmod>T00:00:00-00:00</lastmod>
+    <data>
+        <display>
+            <title>你好，huals's home</title>
+            <pubTime>2015-01-19T00:00:00+08:00</pubTime>
+            <tag>博客心情</tag>
+            <content>
+                <![CDATA[
+                &lt;h2 id=&quot;section&quot;&gt;家&lt;/h2&gt;
+
+&lt;p&gt;花了2个周末，家终于建起来了，家很漂亮，我很喜欢，虽然东西还不多，慢慢地会充实起来的&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;生活&lt;/h2&gt;
+
+&lt;p&gt;左手程序右手诗，有代码，有情怀，This is my life!&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;点题&lt;/h2&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;say hello to huals&amp;#39;s home&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+                ]]>
+            </content>
+            <breadCrumb title="sample-post" url="http://huals.com/categories/#sample-post" />
+        </display>
+    </data>
+    </url>
+    
+</urlset>

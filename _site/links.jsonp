@@ -1,0 +1,8 @@
+callback([
+
+  {
+    "text": "你好，huals's home",
+    "href": "http://huals.com/sample-post/hello-myblog"
+  } 
+
+])
